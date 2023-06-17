@@ -4,7 +4,7 @@ I'm a passionate software engineer with expertise in Golang, C++, AI, image proc
 
 ## Skills and Technologies
 
-- Programming Languages: Golang, C++, Python
+- Programming Languages: Golang, C/C++, Python
 - Artificial Intelligence and Machine Learning
 - Image Processing and Computer Vision
 - GraphQL and RESTful APIs
@@ -17,10 +17,15 @@ I'm a passionate software engineer with expertise in Golang, C++, AI, image proc
 - [go-async](https://github.com/alivanz/go-async): Asynchronous routine in single thread written in Go
 - [go-promise](https://github.com/alivanz/go-promise): Lock-free promise for Go
 
+## Tools
+
+- [tcplog](https://github.com/alivanz/tcplog): A simple tool to analyze TCP connection
+- [go-rpc](https://github.com/alivanz/rpc2): RPC for Go
+
 ## Contact Me
 
 Feel free to reach out to me via email at [alivan1627@gmail.com]. Let's connect and discuss exciting opportunities and collaborations!
 
 ## Find Me Online
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/alivan-akbar-b29a91126/)
+- [LinkedIn](https://www.linkedin.com/in/alivan-akbar-b29a91126/)
