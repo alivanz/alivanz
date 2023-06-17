@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ivan 👋
 
 I'm a passionate software engineer with expertise in Golang, C++, AI, image processing, GraphQL, and web development. I enjoy solving complex problems and building scalable and efficient software solutions. With a strong background in these technologies, I strive to create robust and innovative applications.
 
