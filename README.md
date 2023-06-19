@@ -14,7 +14,7 @@ I'm a passionate software engineer with expertise in Golang, C++, AI, image proc
 ## Usefull library
 
 - [go-lists](https://github.com/alivanz/go-lists): Lock-free lists (stack, queue) written in Go
-- [go-async](https://github.com/alivanz/go-async): Asynchronous routine in single thread written in Go
+- [go-async](https://github.com/alivanz/go-async): Coroutine for Go, with promise!
 - [go-promise](https://github.com/alivanz/go-promise): Lock-free promise for Go
 
 ## Tools
